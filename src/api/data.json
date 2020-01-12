@@ -1,0 +1,73 @@
+[
+  {
+   "id": 1,
+   "title": "Frontend Developer",
+   "description": "Comfortable with modern JS stack, experience with React.",
+   "employment_type": "full_time"
+  }, {
+    "id": 2,
+    "title": "Backend Developer",
+    "description": "Comfortable with modern JS stack, experience with NodeJS.",
+    "employment_type": "full_time"
+   }, {
+    "id": 3,
+    "title": "Devops Engineer",
+    "description": "Experience with the following technologies: Kubernetes, Helm, Docker and AWS.",
+    "employment_type": "full_time"
+   }, {
+    "id": 4,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 5,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 6,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 7,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 8,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "contract"
+   }, {
+    "id": 9,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 10,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "part_time"
+   }, {
+    "id": 11,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 12,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 13,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }, {
+    "id": 14,
+    "title": "Data scientist",
+    "description": "Experience with data analysis/statistical software and packages (pandas/statsmodels/sklearn within Python, R, etc.) and SQL.",
+    "employment_type": "full_time"
+   }
+ ]
